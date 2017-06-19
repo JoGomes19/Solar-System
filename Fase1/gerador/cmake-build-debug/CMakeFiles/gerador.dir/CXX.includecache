@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/JoGomes/Documents/LCC/3º ano/2º semestre/Computação Gráfica/Trabalho/Fase1/gerador/main.cpp
+iostream
+-
+sstream
+-
+string
+-
+fstream
+-
+math.h
+-
+

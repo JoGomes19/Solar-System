@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ventuzelos/Área de Trabalho/Fase4/gerador4/gerador.cpp
+iostream
+-
+sstream
+-
+string
+-
+fstream
+-
+math.h
+-
+string
+-
+map
+-
+vector
+-
+

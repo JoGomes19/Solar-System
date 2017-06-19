@@ -1,0 +1,66 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ventuzelos/Área de Trabalho/Fase4/motor4/motor.cpp
+GLUT/glut.h
+-
+GL/glew.h
+-
+GL/glut.h
+-
+map
+-
+vector
+-
+tinyxml2.h
+/home/ventuzelos/Área de Trabalho/Fase4/motor4/tinyxml2.h
+stdlib.h
+-
+math.h
+-
+iostream
+-
+fstream
+-
+string
+-
+sstream
+-
+IL/il.h
+-
+
+/home/ventuzelos/Área de Trabalho/Fase4/motor4/tinyxml2.h
+ctype.h
+-
+limits.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+stddef.h
+-
+cctype
+-
+climits
+-
+cstdio
+-
+cstdlib
+-
+cstring
+-
+stdint.h
+-
+android/log.h
+-
+assert.h
+-
+

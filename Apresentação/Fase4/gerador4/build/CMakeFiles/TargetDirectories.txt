@@ -1,0 +1,1 @@
+/home/ventuzelos/Área de Trabalho/Fase4/gerador4/build/CMakeFiles/gerador.dir

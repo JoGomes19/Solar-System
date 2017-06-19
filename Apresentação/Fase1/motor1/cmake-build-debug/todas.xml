@@ -1,0 +1,6 @@
+<scene>
+    <Model file = "esfera.3d" />
+    <Model file = "box.3d" />
+    <Model file = "cone.3d" />
+    <Model file = "plano.3d" />
+</scene>

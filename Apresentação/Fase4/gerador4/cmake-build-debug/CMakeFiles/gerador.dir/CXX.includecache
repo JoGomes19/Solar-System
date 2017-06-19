@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/JoGomes/Documents/LCC/3º ano/2º semestre/Computação Gráfica/Trabalho/Apresentação/Fase4/gerador4/gerador.cpp
+iostream
+-
+sstream
+-
+string
+-
+fstream
+-
+math.h
+-
+string
+-
+map
+-
+vector
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -std=gnu++0x    CMakeFiles/motor.dir/motor.cpp.o CMakeFiles/motor.dir/tinystr.cpp.o CMakeFiles/motor.dir/tinyxml2.cpp.o  -o motor -rdynamic -lGLEW -lIL -lGLU -lGL -lSM -lICE -lX11 -lXext -lglut -lXmu -lXi 

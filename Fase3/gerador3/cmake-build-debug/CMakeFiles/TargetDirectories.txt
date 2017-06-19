@@ -1,0 +1,3 @@
+/Users/JoGomes/Documents/LCC/3º ano/2º semestre/Computação Gráfica/Trabalho/Fase3/gerador3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/JoGomes/Documents/LCC/3º ano/2º semestre/Computação Gráfica/Trabalho/Fase3/gerador3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/JoGomes/Documents/LCC/3º ano/2º semestre/Computação Gráfica/Trabalho/Fase3/gerador3/cmake-build-debug/CMakeFiles/gerador.dir

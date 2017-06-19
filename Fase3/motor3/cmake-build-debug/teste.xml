@@ -1,0 +1,16 @@
+<Scene>
+    <Group>
+        <Models>
+            <Model file = "esfera.3d"/>
+        </Models>
+        <Group>
+            <Translate x="-2" y="-2" z="-2"/>
+            <Scale x="2" y="2" z="2"/>
+            <Models>
+                <Model file = "esfera.3d"/>
+            </Models>
+        </Group>
+    </Group>
+</Scene>
+
+
