@@ -1,1 +1,0 @@
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/motor.dir/motor.cpp.o CMakeFiles/motor.dir/tinystr.cpp.o CMakeFiles/motor.dir/tinyxml2.cpp.o  -o motor  -framework OpenGL -framework GLUT -framework Cocoa 
